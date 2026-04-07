@@ -1,0 +1,7 @@
+pip install streamlit
+pip install torch
+pip install transformers==4.41.2
+pip install langchain
+pip install langchain-community
+pip install python-dotenv
+pip install gtts
